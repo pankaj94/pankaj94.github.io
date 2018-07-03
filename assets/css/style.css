@@ -1,3 +1,9 @@
 .projects .w3-display-container {
 	border:1px solid lightgrey;
 }
+.pad20{    padding: 20px;}
+#productHeader{    margin-top: 55px;
+    color: white;
+    background: url(../../images/dark_mosaic.jpg);}
+ .productList img{    height: 240px;
+    margin-top: -22px;}
